@@ -1,1 +1,3 @@
 git reset -- foo.txt
+git commit -m "feat: remove foo.txt"
+git push
